@@ -1,6 +1,0 @@
-/Users/janyagambhir/cats/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3167.JPG 1734,1491,2552,2496,0
-/Users/janyagambhir/cats/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3161.JPG 2229,738,2957,1683,0
-/Users/janyagambhir/cats/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3165.JPG 1351,1093,2367,1902,0
-/Users/janyagambhir/cats/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3158.JPG 2346,1640,3385,2609,0
-/Users/janyagambhir/cats/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3163.JPG 876,958,2405,2335,0
-/Users/janyagambhir/cats/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IMG_3171.JPG 2423,963,3490,2022,0
